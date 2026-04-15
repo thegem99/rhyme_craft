@@ -14,7 +14,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-BASE_URL = "https://your-domain.com/images/"
+BASE_URL = "https://rhymecraft-production.up.railway.app/images/"
 
 # -----------------------------
 # 📁 CATEGORIES (STATIC IMAGE URLS)
